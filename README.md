@@ -4,7 +4,7 @@
 ## 👤 Información del alumno
 
 - Nombre: César Cruz Morales
-- Matrícula: ZS25018117
+- Matrícula: S25018117
 - Fecha:26/10/25
 
 ## 🎯 Objetivos
