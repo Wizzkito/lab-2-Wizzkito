@@ -4,13 +4,16 @@ using namespace std;
 int main()
 {
     int a, b, c;
-    float suma, promedio, producto, menor, mayor;
+    int suma, promedio, producto, menor, mayor;
 
-    cout << "Ingrese un numero: ";
+    //Solicitando primer valor
+    cout << "Ingrese el primer valor ";
     cin >> a;
-    cout << "Ingrese un numero: ";
+    //Solicitando segundo valor
+    cout << "Ingrese el segundo valor ";
     cin >> b;
-    cout << "Ingrese un numero: ";
+    //Solicitando tercer valor
+    cout << "Ingrese el tercer valor ";
     cin >> c;
 
     suma = a + b + c;
